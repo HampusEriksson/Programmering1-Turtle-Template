@@ -6,3 +6,9 @@ Alla kommandon för turtle finns i filen kommandon.md
 
 Använd for-loop för att göra mönster. Go crazy.
 """
+import turtle
+
+
+
+
+turtle.done()
