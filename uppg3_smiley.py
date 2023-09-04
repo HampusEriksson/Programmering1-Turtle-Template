@@ -8,3 +8,9 @@ Rita en smiley med turtle och använd variablerna så att smileyn lätt kan änd
 
 
 """
+import turtle
+
+
+
+
+turtle.done()
