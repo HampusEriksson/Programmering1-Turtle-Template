@@ -1,7 +1,4 @@
-"""  
-Ditt namn
-Datum
-
+"""
 Alla kommandon för turtle finns i filen kommandon.md
 
 Den här uppgiften går ut på att designa en klocka med turtle:

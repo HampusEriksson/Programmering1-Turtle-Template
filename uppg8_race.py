@@ -1,7 +1,4 @@
-"""  
-Ditt namn
-Datum
-
+"""
 Alla kommandon för turtle finns i filen kommandon.md
 
 Skriv kod där en turtle rör sig slumpmässigt. 

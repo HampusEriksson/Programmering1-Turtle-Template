@@ -1,7 +1,4 @@
-"""  
-Ditt namn
-Datum
-
+"""
 Alla kommandon för turtle finns i filen kommandon.md
 Skapa  en variabel för din turtle. Bestäm namnet själv, och låt den ha värdet turtle.Turtle(). T.ex padda = turtle.Turtle() 
 Skapa en variabel som heter r och ge den värdet 100. 

@@ -1,7 +1,4 @@
-"""  
-Ditt namn
-Datum
-
+"""
 Alla kommandon för turtle finns i filen kommandon.md
 
 Skapa en variabel n. 
