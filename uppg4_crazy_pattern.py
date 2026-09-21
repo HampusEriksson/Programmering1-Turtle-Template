@@ -1,11 +1,20 @@
 """
 Alla kommandon för turtle finns i filen kommandon.md
 
-Använd for-loop för att göra mönster. Go crazy.
+Använd en for-loop för att göra ett mönster med turtle.
 
-Exempel på slumpad färg och storlek:
-- random.choice(lista) - väljer ett slumpmässigt element från en lista
-- random.randint(min, max) - slumpar ett heltal mellan min och max
+Minimikrav:
+- Använd minst 50 varv i din for-loop.
+- Förändra minst två egenskaper under loopen, till exempel riktning, färg,
+  pennstorlek eller längden på turtle-stegen.
+- Mönstret ska innehålla något som upprepas och förändras.
+
+Du får gärna använda slump för att göra mönstret mer oförutsägbart.
+
+Exempel på en loop:
+for i in range(50):
+	padda.forward(100)
+	padda.right(91)
 """
 import turtle
 import random
