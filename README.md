@@ -34,6 +34,8 @@ Jobba igenom uppgifterna i ordning:
 6. **uppg6_n_star_2.py** - Rita stjärnor med jämnt antal hörn
 7. **uppg7_clock.py** - Designa en klocka
 8. **uppg8_race.py** - Två turtles som tävlar
+9. **uppg9_fanga_applet.py** - Fånga ett äpple med tangentbordet
+10. **uppg10_turtle_pong.py** - Skapa ett enkelt Pong-spel
 
 ## Kommando-referens
 
@@ -46,4 +48,4 @@ Se [kommandon.md](kommandon.md) för en komplett lista över alla turtle-kommand
 - Använd `turtle.done()` för att behålla fönstret öppet när programmet är klart
 - Du kan stänga fönstret genom att klicka på X-knappen
 
-Lycka till! 🐢
+Lycka till! 
